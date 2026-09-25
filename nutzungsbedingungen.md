@@ -1,6 +1,6 @@
 <!-- Erzeugt von Release/platzhalter_ausfuellen.py aus Rollfestung/Resources/Legal/nutzungsbedingungen_de.md und nutzungsbedingungen_en.md. Text dort ändern, dann das Skript mit --nur-seiten laufen lassen. -->
 
-# Rollfestung · Nutzungsbedingungen / Terms of Use
+# Rollfort · Nutzungsbedingungen / Terms of Use
 
 [Deutsch](#deutsch) · [English](#english)
 
@@ -10,7 +10,7 @@
 
 Stand: 24.09.2026
 
-Diese Bedingungen gelten für das Spiel „Rollfestung“ von Jannik Willer (Kontakt siehe Impressum).
+Diese Bedingungen gelten für das Spiel „Rollfort“ von Jannik Willer (Kontakt siehe Impressum).
 
 ## 1. Lizenz
 
@@ -67,7 +67,7 @@ Es gilt deutsches Recht. Bist du Verbraucher und lebst in einem anderen Staat, b
 
 Last updated: 24.09.2026
 
-These terms apply to the game "Rollfestung" (Rolling Fortress) by Jannik Willer (contact details in the Legal Notice). This English version is a translation; if the versions differ, the German version prevails.
+These terms apply to the game "Rollfort" by Jannik Willer (contact details in the Legal Notice). This English version is a translation; if the versions differ, the German version prevails.
 
 ## 1. License
 

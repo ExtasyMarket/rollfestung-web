@@ -1,6 +1,6 @@
 <!-- Erzeugt von Release/platzhalter_ausfuellen.py aus Rollfestung/Resources/Legal/datenschutz_de.md und datenschutz_en.md. Text dort ändern, dann das Skript mit --nur-seiten laufen lassen. -->
 
-# Rollfestung · Datenschutzerklärung / Privacy Policy
+# Rollfort · Datenschutzerklärung / Privacy Policy
 
 [Deutsch](#deutsch) · [English](#english)
 
@@ -10,7 +10,7 @@
 
 Stand: 25.09.2026
 
-Rollfestung ist ein Spiel ohne Benutzerkonto mit Name oder E-Mail und ohne Analyse-Werkzeuge von Drittanbietern. Für den Cloud-Spielstand, die weltweite Rangliste und eine anonyme Spielstatistik nutzt das Spiel einen eigenen Spielserver bei Supabase in der EU. Die freiwilligen Belohnungs-Videos kommen von Google AdMob. Hier steht, welche Daten beim Spielen entstehen, wo sie gespeichert werden und welche Rechte du hast.
+Rollfort ist ein Spiel ohne Benutzerkonto mit Name oder E-Mail und ohne Analyse-Werkzeuge von Drittanbietern. Für den Cloud-Spielstand, die weltweite Rangliste und eine anonyme Spielstatistik nutzt das Spiel einen eigenen Spielserver bei Supabase in der EU. Die freiwilligen Belohnungs-Videos kommen von Google AdMob. Hier steht, welche Daten beim Spielen entstehen, wo sie gespeichert werden und welche Rechte du hast.
 
 ## 1. Verantwortlicher
 
@@ -22,7 +22,7 @@ E-Mail: rollfestung@gmail.com
 ## 2. Das Wichtigste in Kürze
 
 - Dein Spielstand liegt auf deinem Gerät. Für den Cloud-Spielstand, die weltweite Rangliste und eine anonyme Spielstatistik betreibe ich einen Spielserver bei Supabase mit Standort Frankfurt am Main (Abschnitt 8).
-- Es gibt kein Benutzerkonto mit Name, E-Mail oder Passwort, sondern nur ein anonymes Spielkonto mit einer zufälligen ID. Name, E-Mail, Werbe-ID und Standortdaten (GPS) erhält der Spielserver nicht.
+- Es gibt kein Benutzerkonto mit Name, E-Mail oder Passwort, sondern nur ein anonymes Spielkonto mit einer zufälligen ID. E-Mail, Werbe-ID und Standortdaten (GPS) erhält der Spielserver nicht, einen Namen nur als Anzeigenamen der Rangliste (Game-Center-Name oder selbst gewählt, Abschnitt 8).
 - Die Spielstatistik kannst du in den Einstellungen jederzeit ausschalten, und deine Daten auf dem Spielserver löschst du dort selbst („Meine Serverdaten löschen“).
 - Einige Funktionen nutzen Dienste von Apple: iCloud (Abgleich des Spielstands), Game Center (Bestenlisten und Erfolge) und den App Store (Käufe). Diese Daten verarbeitet Apple, ich erhalte sie nicht.
 - Die freiwilligen Belohnungs-Videos liefert Google AdMob (Abschnitt 7). In der EU fragt die App vorher nach deiner Einwilligung; ändern kannst du sie jederzeit in den Einstellungen unter „Einwilligungen verwalten“. Die Werbe-ID (IDFA) nutzt Google nur, wenn du es in der iOS-Abfrage erlaubst.
@@ -48,7 +48,7 @@ Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (die von dir genutzte Funktion be
 
 ## 5. Game Center: Bestenlisten und Erfolge
 
-Bist du bei Game Center angemeldet, meldet das Spiel deine Ergebnisse (zum Beispiel höchste Zone, Punkte und Tagesfeldzug) und freigeschaltete Erfolge an Game Center von Apple. Andere Spieler sehen deine Einträge in den Bestenlisten zusammen mit deinem Game-Center-Namen, je nach deinen Game-Center-Einstellungen. Diese Bestenlisten kann auch ich in Game Center einsehen. Das Spiel zeigt deinen Game-Center-Namen außerdem in deinem Profil an.
+Bist du bei Game Center angemeldet, meldet das Spiel deine Ergebnisse (zum Beispiel höchste Zone, Punkte und Tagesfeldzug) und freigeschaltete Erfolge an Game Center von Apple. Andere Spieler sehen deine Einträge in den Bestenlisten zusammen mit deinem Game-Center-Namen, je nach deinen Game-Center-Einstellungen. Diese Bestenlisten kann auch ich in Game Center einsehen. Das Spiel zeigt deinen Game-Center-Namen außerdem in deinem Profil an und nutzt ihn als Anzeigenamen in der eigenen weltweiten Rangliste auf dem Spielserver (Abschnitt 8), solange du keinen eigenen Namen gewählt hast. Rechtsgrundlage dafür ist Art. 6 Abs. 1 lit. b DSGVO (die Rangliste, an der du mit deinem Spiel teilnimmst).
 
 Ohne Anmeldung ist das Spiel vollständig spielbar, es werden dann keine Ergebnisse gemeldet. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO. Anmeldung und Sichtbarkeit steuerst du in den iOS-Einstellungen unter „Game Center“. Verantwortlich für Game Center ist Apple, siehe die [Datenschutzrichtlinie von Apple](https://www.apple.com/legal/privacy/).
 
@@ -85,11 +85,11 @@ Für den Cloud-Spielstand, die weltweite Rangliste und eine anonyme Spielstatist
 - **Feldzug-Statistik** (nach jedem Feldzug): Zone, besiegte Bosse, Dauer, Punkte, Schaden, Relikte, gewirkte Zauber, Stufe, Gold, Überrollte, Kronen, Prestige-Stufe, Fahrwerk, Sieg ja/nein, Tagesfeldzug ja/nein, gefallen oder aufgegeben, App-Version und Zeitpunkt.
 - **Ereignisse** (wenn sie passieren): Belohnungs-Video angesehen oder abgebrochen (mit der Stelle im Spiel), Kauf (Produkt, Preis und Währung – statt der Transaktionsnummer nur ein nicht umkehrbarer Kurz-Code), Kiste geöffnet, Freischaltung, Prestige und Erfolg, jeweils mit App-Version und Zeitpunkt.
 - **Cloud-Spielstand** (nach dem Speichern, höchstens alle 30 Sekunden): eine Kopie deines Spielstands mit demselben Inhalt wie auf deinem Gerät (Abschnitt 3), also auch den Nummern deiner Käufe.
-- **Rangliste** (nach jedem Feldzug): beste Zone, bester Punktestand, Prestige-Stufe und Land, beim Tagesfeldzug auch Punkte und Zone des Tages.
+- **Rangliste** (nach jedem Feldzug): beste Zone, bester Punktestand, Prestige-Stufe, Land und dein Anzeigename, beim Tagesfeldzug auch Punkte und Zone des Tages. Anzeigename ist dein Game-Center-Name, wenn du bei Game Center angemeldet bist, sonst „Burgherr“. Im Profil kannst du ihn genau einmal durch einen selbst gewählten Namen ersetzen – nimm dafür nicht deinen echten Namen. Namen mit Beleidigungen oder rassistischen Begriffen lässt der Server nicht zu.
 
-Name, E-Mail-Adresse, Game-Center-Name, Werbe-ID (IDFA) und Standortdaten sendet das Spiel nicht an den Spielserver.
+E-Mail-Adresse, Werbe-ID (IDFA) und Standortdaten sendet das Spiel nicht an den Spielserver, deinen Namen nur als Anzeigenamen für die Rangliste (siehe oben).
 
-**Wer die Daten sieht:** Die Ranglisten sehen alle Spieler – mit Platz, dem für alle gleichen Anzeigenamen „Burgherr“, einer Kurz-ID aus deiner Konto-ID (zum Beispiel #3F9A1C), der Flagge deines Landes, bester Zone, Punkten und Prestige-Stufe. Alle anderen Daten sehe nur ich; Supabase verarbeitet sie ausschließlich in meinem Auftrag. Ich verkaufe keine Daten und nutze sie nicht für Werbung.
+**Wer die Daten sieht:** Die Ranglisten sehen alle Spieler – mit Platz, dem Anzeigenamen (Game-Center-Name oder dein selbst gewählter Name, sonst „Burgherr“), einer Kurz-ID aus deiner Konto-ID (zum Beispiel #3F9A1C), der Flagge deines Landes, bester Zone, Punkten und Prestige-Stufe. Alle anderen Daten sehe nur ich; Supabase verarbeitet sie ausschließlich in meinem Auftrag. Ich verkaufe keine Daten und nutze sie nicht für Werbung.
 
 **Zwecke und Rechtsgrundlagen:**
 
@@ -101,6 +101,22 @@ Name, E-Mail-Adresse, Game-Center-Name, Werbe-ID (IDFA) und Standortdaten sendet
 **Speicherdauer:** Ich speichere die Daten, solange dein Spielkonto besteht. Vom Online-Status bleiben nur der letzte Stand und je Tag die Zahl der gespielten Minuten. Einzelne Feldzüge, Ereignisse und Tageswerte lösche ich spätestens nach 24 Monaten, Konten, mit denen 24 Monate lang nicht gespielt wurde, samt allen Daten. IP-Adressen in den Server- und Anmeldeprotokollen werden nach spätestens 30 Tagen gelöscht. Gelöschte Daten können noch bis zu 30 Tage in Sicherungskopien (Backups) von Supabase enthalten sein.
 
 **Löschen:** In den Einstellungen unter „Online & Datenschutz“ löschst du mit „Meine Serverdaten löschen“ jederzeit alles, was der Spielserver zu deinem Konto gespeichert hat: Cloud-Spielstand, Ranglisten-Einträge, Statistik, Feldzüge und Ereignisse. Die App vergisst dabei auch die Anmeldung; die dann leere Konto-ID entferne ich bei der nächsten automatischen Aufräumung. Dein Spielstand auf dem Gerät und in iCloud bleibt erhalten. Spielst du danach online weiter, legt die App ein neues, leeres Spielkonto an. Du kannst mir auch schreiben (rollfestung@gmail.com) und die Kurz-ID aus der Rangliste nennen – dann lösche ich die Daten dieses Kontos.
+
+## 8a. Discord-Verknüpfung (freiwillig)
+
+Im Profil kannst du dein Spielkonto freiwillig mit dem Discord-Server von Rollfort verknüpfen. Dafür zeigt die App einen Code, der 15 Minuten gültig ist; du gibst ihn im Discord-Server ein (Kanal #konto-verknüpfen oder Befehl /verknüpfen).
+
+**Was gespeichert wird:** Beim Verknüpfen speichert mein Discord-Bot auf dem Spielserver bei Supabase (Abschnitt 8) zu deiner Konto-ID deine Discord-Nutzer-ID, deinen Discord-Namen, den Link zu deinem Discord-Profilbild und den Zeitpunkt der Verknüpfung – so lange, bis du die Verknüpfung trennst. Damit dein Profil die Verknüpfung auch ohne Internet zeigt, merkt sich die App den Discord-Namen und den Link zum Profilbild außerdem auf deinem Gerät.
+
+**Was im Discord-Server sichtbar wird:** Solange die Verknüpfung besteht, zeigt der Bot im Discord-Server deinen Anzeigenamen aus der Rangliste, deinen Rang, deine beste Zone, deinen Punktestand, deine Prestige-Stufe, die Flagge deines Landes und deinen Platz in der Rangliste, und er gibt dir eine Rang-Rolle. Das sehen alle Mitglieder des Servers.
+
+**Rangliste im Discord-Server:** Unabhängig von einer Verknüpfung zeigt der Bot im Kanal #rangliste die besten Plätze der weltweiten Rangliste, des Tagesfeldzugs und der Prestige-Liste – mit denselben Angaben wie in der App (Anzeigename, Flagge des Landes, Zone, Punkte, Prestige, Platz), damit die Community die Rangliste auch dort verfolgen kann (berechtigtes Interesse, Art. 6 Abs. 1 lit. f DSGVO). Möchtest du dort nicht erscheinen, schreib mir (Abschnitt 10) – dann nehme ich deinen Eintrag aus der Rangliste.
+
+**Zweck und Rechtsgrundlage:** Community-Funktionen im Discord-Server (Rang-Rolle, Live-Rangliste, Erfolge). Rechtsgrundlage ist deine Einwilligung, die du gibst, indem du die Verknüpfung selbst herstellst (Art. 6 Abs. 1 lit. a DSGVO).
+
+**Widerruf und Löschen:** Du kannst die Verknüpfung jederzeit trennen – im Profil mit „Trennen“ oder im Discord-Server mit /trennen. Dann werden die Discord-Daten auf dem Spielserver gelöscht, und der Bot entfernt deine Rang-Rolle. Auch „Meine Serverdaten löschen“ (Abschnitt 8) löscht die Verknüpfung.
+
+**Discord:** Discord ist ein eigener Dienst der Discord Inc. (USA). Wie Discord Daten verarbeitet, wenn du Discord nutzt, steht in der [Datenschutzrichtlinie von Discord](https://discord.com/privacy).
 
 ## 9. Absturzberichte und Statistiken von Apple
 
@@ -114,7 +130,7 @@ Schreibst du mir, verarbeite ich deine E-Mail-Adresse und deine Nachricht, um de
 
 - kein eigenes Tracking über Apps und Webseiten anderer Anbieter hinweg – Tracking durch Google nur mit deiner Erlaubnis (Abschnitt 7),
 - keine GPS-Standortdaten, kein Zugriff auf Kontakte, Fotos, Kamera oder Mikrofon,
-- kein Verkauf von Daten; Empfänger sind nur Supabase als Betreiber des Spielservers in meinem Auftrag (Abschnitt 8) und Google für die Werbung (Abschnitt 7),
+- kein Verkauf von Daten; Empfänger sind nur Supabase als Betreiber des Spielservers in meinem Auftrag (Abschnitt 8), Google für die Werbung (Abschnitt 7) und Discord für die Rangliste im Discord-Server sowie – nur wenn du dein Konto verknüpfst – für deine Verknüpfung (Abschnitt 8a),
 - keine Werbeprofile durch mich und keine automatisierten Entscheidungen im Einzelfall (personalisierte Werbung von Google nur mit Einwilligung).
 
 ## 12. Deine Rechte
@@ -135,7 +151,7 @@ Ich passe diese Erklärung an, wenn sich das Spiel oder seine Dienste ändern. D
 
 Last updated: 25.09.2026
 
-Rollfestung (Rolling Fortress) is a game without user accounts with a name or email and without third-party analytics tools. For the cloud save, the worldwide leaderboard and anonymous game statistics, the game uses its own game server hosted by Supabase in the EU. The optional reward videos come from Google AdMob. This policy explains which data is created while you play, where it is stored and which rights you have.
+Rollfort is a game without user accounts with a name or email and without third-party analytics tools. For the cloud save, the worldwide leaderboard and anonymous game statistics, the game uses its own game server hosted by Supabase in the EU. The optional reward videos come from Google AdMob. This policy explains which data is created while you play, where it is stored and which rights you have.
 
 ## 1. Controller
 
@@ -147,7 +163,7 @@ Email: rollfestung@gmail.com
 ## 2. Summary
 
 - Your game progress is stored on your device. For the cloud save, the worldwide leaderboard and anonymous game statistics I run a game server at Supabase located in Frankfurt am Main, Germany (section 8).
-- There is no user account with a name, email or password – only an anonymous game account with a random ID. The game server does not receive your name, email, advertising identifier or location data (GPS).
+- There is no user account with a name, email or password – only an anonymous game account with a random ID. The game server does not receive your email, advertising identifier or location data (GPS), and a name only as the leaderboard display name (Game Center name or one you chose, section 8).
 - You can turn off the game statistics in the settings at any time, and you delete your data on the game server there yourself ("Delete my server data").
 - Some features use Apple services: iCloud (syncing your progress), Game Center (leaderboards and achievements) and the App Store (purchases). Apple processes this data; I do not receive it.
 - The optional reward videos are provided by Google AdMob (section 7). In the EU the app asks for your consent first; you can change it at any time in the settings under "Manage consent". Google only uses the advertising identifier (IDFA) if you allow it in the iOS prompt.
@@ -173,7 +189,7 @@ The legal basis is Art. 6 (1) (b) GDPR (providing the feature you use). You mana
 
 ## 5. Game Center: leaderboards and achievements
 
-If you are signed in to Game Center, the game reports your results (for example highest zone, score and daily campaign) and unlocked achievements to Apple's Game Center. Other players see your leaderboard entries together with your Game Center name, depending on your Game Center settings. I can also view these leaderboards in Game Center. The game also shows your Game Center name in your profile.
+If you are signed in to Game Center, the game reports your results (for example highest zone, score and daily campaign) and unlocked achievements to Apple's Game Center. Other players see your leaderboard entries together with your Game Center name, depending on your Game Center settings. I can also view these leaderboards in Game Center. The game also shows your Game Center name in your profile and uses it as your display name in the game's own worldwide leaderboard on the game server (section 8), as long as you have not chosen a name of your own. The legal basis for this is Art. 6 (1) (b) GDPR (the leaderboard you take part in with your game).
 
 The game is fully playable without signing in; no results are reported then. The legal basis is Art. 6 (1) (b) GDPR. You control sign-in and visibility in the iOS Settings under "Game Center". Apple is responsible for Game Center, see [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
@@ -210,11 +226,11 @@ For the cloud save, the worldwide leaderboard and anonymous game statistics, the
 - **Campaign statistics** (after every campaign): zone, bosses defeated, duration, score, damage, relics, spells cast, level, gold, overrun, crowns, prestige level, chassis, victory yes/no, daily campaign yes/no, fallen or given up, app version and time.
 - **Events** (when they happen): reward video watched or aborted (with the place in the game), purchase (product, price and currency – instead of the transaction ID only an irreversible short code), chest opened, unlock, prestige and achievement, each with app version and time.
 - **Cloud save** (after saving, at most every 30 seconds): a copy of your game progress with the same content as on your device (section 3), including the IDs of your purchases.
-- **Leaderboard** (after every campaign): best zone, best score, prestige level and country, for the daily campaign also the day's score and zone.
+- **Leaderboard** (after every campaign): best zone, best score, prestige level, country and your display name, for the daily campaign also the day's score and zone. The display name is your Game Center name if you are signed in to Game Center, otherwise "Burgherr" / "Castellan". In your profile you can replace it exactly once with a name of your choice – don't use your real name. The server does not accept names containing insults or racist terms.
 
-The game does not send your name, email address, Game Center name, advertising identifier (IDFA) or location data to the game server.
+The game does not send your email address, advertising identifier (IDFA) or location data to the game server, and it sends your name only as the leaderboard display name (see above).
 
-**Who sees the data:** All players see the leaderboards – with rank, the same default display name for everyone ("Burgherr", in English "Castellan"), a short ID derived from your account ID (for example #3F9A1C), your country's flag, best zone, score and prestige level. Only I see all other data; Supabase processes it solely on my behalf. I do not sell any data and do not use it for advertising.
+**Who sees the data:** All players see the leaderboards – with rank, the display name (Game Center name or the name you chose, otherwise "Burgherr" / "Castellan"), a short ID derived from your account ID (for example #3F9A1C), your country's flag, best zone, score and prestige level. Only I see all other data; Supabase processes it solely on my behalf. I do not sell any data and do not use it for advertising.
 
 **Purposes and legal bases:**
 
@@ -226,6 +242,22 @@ The game does not send your name, email address, Game Center name, advertising i
 **Retention:** I keep the data as long as your game account exists. Of the online status, only the latest state and the number of minutes played per day are kept. I delete individual campaigns, events and daily results after 24 months at the latest, and accounts that have not been played with for 24 months together with all their data. IP addresses in the server and sign-in logs are deleted after 30 days at the latest. Deleted data may remain in Supabase's backups for up to 30 days.
 
 **Deletion:** In the settings under "Online & Privacy", "Delete my server data" deletes at any time everything the game server has stored for your account: cloud save, leaderboard entries, statistics, campaigns and events. The app also forgets its sign-in; I remove the then empty account ID during the next automatic cleanup. Your game progress on the device and in iCloud is kept. If you keep playing online afterwards, the app creates a new, empty game account. You can also write to me (rollfestung@gmail.com) and include the short ID from the leaderboard – I will then delete the data of this account.
+
+## 8a. Discord link (optional)
+
+In your profile you can choose to link your game account with the Rollfort Discord server. The app shows a code that is valid for 15 minutes; you enter it on the Discord server (channel #konto-verknüpfen or the /link command).
+
+**What is stored:** When you link, my Discord bot stores your Discord user ID, your Discord username, the link to your Discord profile picture and the time of linking together with your account ID on the game server at Supabase (section 8) – until you unlink. So that your profile shows the link even without internet, the app also remembers your Discord name and the profile picture link on your device.
+
+**What becomes visible on the Discord server:** While the link exists, the bot shows your leaderboard display name, your rank, best zone, score, prestige level, your country's flag and your place on the leaderboard on the Discord server, and it gives you a rank role. All members of the server can see this.
+
+**Leaderboard on the Discord server:** Regardless of any link, the bot shows the top places of the world leaderboard, the daily campaign and the prestige list in the #rangliste channel – with the same details as in the app (display name, country flag, zone, score, prestige, place), so the community can follow the leaderboard there too (legitimate interest, Art. 6 (1) (f) GDPR). If you don't want to appear there, write to me (section 10) and I will remove your entry from the leaderboard.
+
+**Purpose and legal basis:** community features on the Discord server (rank role, live leaderboard, achievements). The legal basis is your consent, which you give by creating the link yourself (Art. 6 (1) (a) GDPR).
+
+**Withdrawal and deletion:** You can unlink at any time – in your profile with "Unlink" or on the Discord server with /unlink. The Discord data on the game server is then deleted and the bot removes your rank role. "Delete my server data" (section 8) also removes the link.
+
+**Discord:** Discord is a separate service of Discord Inc. (USA). How Discord processes data when you use Discord is described in [Discord's Privacy Policy](https://discord.com/privacy).
 
 ## 9. Crash reports and statistics from Apple
 
@@ -239,7 +271,7 @@ If you write to me, I process your email address and your message to answer your
 
 - no tracking of its own across apps and websites of other companies – tracking by Google only with your permission (section 7),
 - no GPS location data, no access to contacts, photos, camera or microphone,
-- no selling of data; the only recipients are Supabase, which runs the game server on my behalf (section 8), and Google for the ads (section 7),
+- no selling of data; the only recipients are Supabase, which runs the game server on my behalf (section 8), Google for the ads (section 7) and Discord for the leaderboard on the Discord server and – only if you link your account – for your link (section 8a),
 - no advertising profiles by me and no automated individual decision-making (personalized ads from Google only with consent).
 
 ## 12. Your rights

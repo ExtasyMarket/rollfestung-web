@@ -1,6 +1,6 @@
 <!-- Erzeugt von Release/platzhalter_ausfuellen.py aus Rollfestung/Resources/Legal/impressum_de.md und impressum_en.md. Text dort ändern, dann das Skript mit --nur-seiten laufen lassen. -->
 
-# Rollfestung · Impressum / Legal Notice
+# Rollfort · Impressum / Legal Notice
 
 [Deutsch](#deutsch) · [English](#english)
 
@@ -28,7 +28,7 @@ Die App und diese Seiten enthalten Links zu Webseiten Dritter (zum Beispiel Appl
 
 ## Urheberrecht
 
-Spiel, Grafiken, Klänge und Texte von Rollfestung: © 2026 Jannik Willer. Alle Rechte vorbehalten.
+Spiel, Grafiken, Klänge und Texte von Rollfort: © 2026 Jannik Willer. Alle Rechte vorbehalten.
 
 Apple, iPhone, iCloud, Game Center und App Store sind Marken von Apple Inc.
 
@@ -58,6 +58,6 @@ The app and these pages contain links to third-party websites (for example Apple
 
 ## Copyright
 
-Game, graphics, sounds and texts of Rollfestung: © 2026 Jannik Willer. All rights reserved.
+Game, graphics, sounds and texts of Rollfort: © 2026 Jannik Willer. All rights reserved.
 
 Apple, iPhone, iCloud, Game Center and App Store are trademarks of Apple Inc.
