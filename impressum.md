@@ -11,7 +11,9 @@
 Angaben gemäß § 5 Digitale-Dienste-Gesetz (DDG)
 
 Jannik Willer  
-[ANSCHRIFT (IMPRESSUM-SERVICE)]  
+c/o POSTFLEX PFX-208-384  
+Emsdettener Straße 10  
+48268 Greven  
 Deutschland
 
 ## Kontakt
@@ -41,7 +43,9 @@ Apple, iPhone, iCloud, Game Center und App Store sind Marken von Apple Inc.
 Information according to Section 5 of the German Digital Services Act (DDG)
 
 Jannik Willer  
-[ANSCHRIFT (IMPRESSUM-SERVICE)]  
+c/o POSTFLEX PFX-208-384  
+Emsdettener Straße 10  
+48268 Greven  
 Germany
 
 ## Contact

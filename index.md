@@ -37,7 +37,7 @@ Questions, a bug in the game or an idea? Write to me: <rollfestung@gmail.com>. I
 ## Frequently asked questions
 
 **How do I get my purchases on a new device?**  
-Settings (gear at the top right) → "Account & Purchases" → "Restore purchases". This restores one-time purchases (starter pack, ad-free) and the Premium Pass.
+Settings (gear at the top right) → "Account & Purchases" → "Restore Purchases". This restores one-time purchases (starter pack, ad-free) and the Premium Pass.
 
 **How do I take my progress to another device?**  
 Sign in to iCloud with the same Apple Account on both devices. The game then syncs your progress automatically.

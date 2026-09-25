@@ -26,7 +26,7 @@ Kisten enthalten zufällige Gegenstände. Die Wahrscheinlichkeiten stehen im Spi
 
 - Käufe wickelt Apple über den App Store ab. Es gelten die Preise im App Store und die Bedingungen von Apple, bezahlt wird über deinen Apple Account.
 - Verbrauchsartikel (Kronen-Pakete, Runenpaket, Wiederbeleben) werden sofort deinem Spielstand gutgeschrieben und dort verbraucht.
-- Einmalkäufe (Starterpaket, Werbefrei) bleiben an deinen Apple Account gebunden. Über „Einstellungen → Käufe wiederherstellen“ holst du sie auf ein neues Gerät.
+- Einmalkäufe (Starterpaket, Werbefrei) bleiben an deinen Apple Account gebunden. Über „Einstellungen → Konto & Käufe → Käufe wiederherstellen“ holst du sie auf ein neues Gerät.
 - Der Premium-Pass gilt für die Saison, in der du ihn kaufst. Er verlängert sich nicht automatisch.
 - Bist du minderjährig, frag bitte vor einem Kauf deine Eltern.
 - Eine Rückerstattung beantragst du bei Apple unter [reportaproblem.apple.com](https://reportaproblem.apple.com).
@@ -65,7 +65,7 @@ Es gilt deutsches Recht. Bist du Verbraucher und lebst in einem anderen Staat, b
 
 # Terms of Use
 
-Last updated: 24.09.2026
+Last updated: September 24, 2026
 
 These terms apply to the game "Rollfort" by Jannik Willer (contact details in the Legal Notice). This English version is a translation; if the versions differ, the German version prevails.
 
@@ -83,7 +83,7 @@ Chests contain random items. The chances are shown in the game at the chest shel
 
 - Apple handles purchases through the App Store. The prices in the App Store and Apple's terms apply; you pay through your Apple Account.
 - Consumables (crown packs, rune pack, revive) are credited to your progress immediately and used up there.
-- One-time purchases (starter pack, ad-free) stay linked to your Apple Account. Use "Settings → Restore purchases" to get them on a new device.
+- One-time purchases (starter pack, ad-free) stay linked to your Apple Account. Use "Settings → Account & Purchases → Restore Purchases" to get them on a new device.
 - The Premium Pass is valid for the season in which you buy it. It does not renew automatically.
 - If you are a minor, please ask your parents before buying.
 - To request a refund, contact Apple at [reportaproblem.apple.com](https://reportaproblem.apple.com).

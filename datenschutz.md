@@ -15,7 +15,9 @@ Rollfort ist ein Spiel ohne Benutzerkonto mit Name oder E-Mail und ohne Analyse-
 ## 1. Verantwortlicher
 
 Jannik Willer  
-[ANSCHRIFT (IMPRESSUM-SERVICE)]  
+c/o POSTFLEX PFX-208-384  
+Emsdettener Straße 10  
+48268 Greven  
 Deutschland  
 E-Mail: rollfestung@gmail.com
 
@@ -25,7 +27,7 @@ E-Mail: rollfestung@gmail.com
 - Es gibt kein Benutzerkonto mit Name, E-Mail oder Passwort, sondern nur ein anonymes Spielkonto mit einer zufälligen ID. E-Mail, Werbe-ID und Standortdaten (GPS) erhält der Spielserver nicht, einen Namen nur als Anzeigenamen der Rangliste (Game-Center-Name oder selbst gewählt, Abschnitt 8).
 - Die Spielstatistik kannst du in den Einstellungen jederzeit ausschalten, und deine Daten auf dem Spielserver löschst du dort selbst („Meine Serverdaten löschen“).
 - Einige Funktionen nutzen Dienste von Apple: iCloud (Abgleich des Spielstands), Game Center (Bestenlisten und Erfolge) und den App Store (Käufe). Diese Daten verarbeitet Apple, ich erhalte sie nicht.
-- Die freiwilligen Belohnungs-Videos liefert Google AdMob (Abschnitt 7). In der EU fragt die App vorher nach deiner Einwilligung; ändern kannst du sie jederzeit in den Einstellungen unter „Einwilligungen verwalten“. Die Werbe-ID (IDFA) nutzt Google nur, wenn du es in der iOS-Abfrage erlaubst.
+- Die freiwilligen Belohnungs-Videos liefert Google AdMob (Abschnitt 7). In der EU fragt die App vorher nach deiner Einwilligung, und in US-Bundesstaaten mit eigenem Datenschutzgesetz kannst du personalisierter Werbung widersprechen (Abschnitt 11b); beides verwaltest du in den Einstellungen unter „Einwilligungen verwalten“. Die Werbe-ID (IDFA) nutzt Google nur, wenn du es in der iOS-Abfrage erlaubst.
 
 ## 3. Daten auf deinem Gerät
 
@@ -66,6 +68,8 @@ An einigen Stellen kannst du freiwillig ein kurzes Werbevideo ansehen und dafür
 
 **Einwilligung (EU/EWR, Vereinigtes Königreich, Schweiz):** Vor der ersten Werbung zeigt die App Googles Einwilligungsdialog (User Messaging Platform). Dort entscheidest du, ob Google Informationen auf deinem Gerät speichern und auslesen und personalisierte Werbung zeigen darf. Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO, § 25 Abs. 1 TDDDG). Deine Auswahl wird auf deinem Gerät gespeichert. Du kannst sie jederzeit mit Wirkung für die Zukunft ändern oder widerrufen: in den Einstellungen des Spiels unter „Über & Rechtliches → Einwilligungen verwalten“.
 
+**US-Bundesstaaten:** Wo ein Datenschutzgesetz eines US-Bundesstaats gilt, fragt die App vor der ersten Werbung nicht nach einer Einwilligung. Stattdessen kannst du der Nutzung deiner Daten für personalisierte Werbung jederzeit widersprechen: in den Einstellungen des Spiels unter „Über & Rechtliches → Einwilligungen verwalten“ (die Zeile erscheint, wo Google diese Wahl für deinen Bundesstaat anbietet). Google nutzt deine Daten dann nicht mehr für personalisierte Werbung. Mehr dazu in Abschnitt 11b.
+
 **Tracking (App-Tracking-Transparenz):** Danach fragt iOS, ob Google die Werbe-ID (IDFA) deines Geräts nutzen darf, um Werbung über Apps und Webseiten anderer Anbieter hinweg zu personalisieren und zu messen. Ohne deine Erlaubnis erhält Google die Werbe-ID nicht; die Videos gibt es trotzdem. Ändern kannst du das jederzeit in den iOS-Einstellungen unter „Datenschutz & Sicherheit → Tracking“.
 
 **Empfänger und Drittländer:** Google kann Daten auch in den USA verarbeiten. Google ist nach dem EU-US Data Privacy Framework zertifiziert (Angemessenheitsbeschluss der EU-Kommission, Art. 45 DSGVO) und nutzt zusätzlich Standardvertragsklauseln. Wie Google Daten verarbeitet und wie lange es sie speichert, steht in der [Datenschutzerklärung von Google](https://policies.google.com/privacy) und unter [Wie Google Daten aus Apps von Partnern verwendet](https://policies.google.com/technologies/partner-sites). Ich selbst erhalte von AdMob nur zusammengefasste Berichte (zum Beispiel Zahl der Videos und Einnahmen), keine Daten über einzelne Spieler.
@@ -104,13 +108,26 @@ E-Mail-Adresse, Werbe-ID (IDFA) und Standortdaten sendet das Spiel nicht an den 
 
 ## 8a. Discord-Verknüpfung (freiwillig)
 
-Im Profil kannst du dein Spielkonto freiwillig mit dem Discord-Server von Rollfort verknüpfen. Dafür zeigt die App einen Code, der 15 Minuten gültig ist; du gibst ihn im Discord-Server ein (Kanal #konto-verknüpfen oder Befehl /verknüpfen).
+Du kannst dein Spielkonto freiwillig mit dem Discord-Server von Rollfort verknüpfen – im Profil oder in den Einstellungen, auf zwei Wegen:
+
+- **Mit einem Tipp:** „Mit Discord verbinden“ öffnet die Anmeldeseite von Discord. Tippst du dort auf „Autorisieren“, erhält mein Discord-Bot von Discord deine Discord-Nutzer-ID, deinen Discord-Namen und dein Profilbild (nicht deine E-Mail-Adresse), nimmt dich in den Discord-Server auf, falls du noch nicht Mitglied bist, und richtet in deinem Discord-Profil die Verbindung „Rollfort“ ein (siehe unten).
+- **Mit Code:** Die App zeigt einen Code, der 15 Minuten gültig ist; du gibst ihn im Discord-Server ein (im Verknüpfen-Kanal oder mit dem Befehl /verknüpfen).
 
 **Was gespeichert wird:** Beim Verknüpfen speichert mein Discord-Bot auf dem Spielserver bei Supabase (Abschnitt 8) zu deiner Konto-ID deine Discord-Nutzer-ID, deinen Discord-Namen, den Link zu deinem Discord-Profilbild und den Zeitpunkt der Verknüpfung – so lange, bis du die Verknüpfung trennst. Damit dein Profil die Verknüpfung auch ohne Internet zeigt, merkt sich die App den Discord-Namen und den Link zum Profilbild außerdem auf deinem Gerät.
 
 **Was im Discord-Server sichtbar wird:** Solange die Verknüpfung besteht, zeigt der Bot im Discord-Server deinen Anzeigenamen aus der Rangliste, deinen Rang, deine beste Zone, deinen Punktestand, deine Prestige-Stufe, die Flagge deines Landes und deinen Platz in der Rangliste, und er gibt dir eine Rang-Rolle. Das sehen alle Mitglieder des Servers.
 
-**Rangliste im Discord-Server:** Unabhängig von einer Verknüpfung zeigt der Bot im Kanal #rangliste die besten Plätze der weltweiten Rangliste, des Tagesfeldzugs und der Prestige-Liste – mit denselben Angaben wie in der App (Anzeigename, Flagge des Landes, Zone, Punkte, Prestige, Platz), damit die Community die Rangliste auch dort verfolgen kann (berechtigtes Interesse, Art. 6 Abs. 1 lit. f DSGVO). Möchtest du dort nicht erscheinen, schreib mir (Abschnitt 10) – dann nehme ich deinen Eintrag aus der Rangliste.
+**Runen und Kronen (nur mit deiner Erlaubnis):** Nur wenn du es in den Einstellungen unter „Im Discord zeigen“ erlaubst, zeigt der Bot außerdem, wie viele Runen du besitzt und wie viele Kronen du hast; du kannst jede dieser Angaben dort jederzeit wieder ausschalten, dann wird sie auf dem Spielserver gelöscht.
+
+**Verbindung „Rollfort“ im Discord-Profil (nur beim Verbinden mit einem Tipp):** Der Bot trägt dort deinen Anzeigenamen aus der Rangliste, deinen Rang, deine beste Zone und deine Prestige-Stufe ein, damit der Discord-Server Rollen danach vergeben kann („Linked Roles“); wer die Verbindung sieht, stellst du in Discord ein. Um sie aktuell zu halten, speichert der Bot einen Zugangsschlüssel von Discord (Refresh-Token) verschlüsselt auf seinem Server – nur dafür. Trennst du die Verknüpfung, entfernt der Bot die Verbindung und löscht den Schlüssel. In Discord kannst du die Berechtigung außerdem jederzeit unter Einstellungen → Autorisierte Apps widerrufen.
+
+**Belohnungen:** Für verknüpfte Konten legt der Bot Belohnungen (Kronen, Truhen, das Community-Banner) auf dem Spielserver bei Supabase an; die App holt sie ab, schreibt sie deinem Spielstand gut und meldet sie danach als abgeholt. Damit das Geschenk fürs Verbinden nur einmal je Spielkonto und je Discord-Konto und der tägliche Bonus nur einmal am Tag vergeben wird, speichert der Spielserver, wofür und wann es eine Belohnung gab – deine Discord-Nutzer-ID dabei nur als Hash-Wert (SHA-256). Diese Einträge bleiben auch nach dem Trennen und nach „Meine Serverdaten löschen“ erhalten, dann ohne Bezug zu deinem Spielkonto, damit niemand dasselbe Geschenk mehrfach holen kann (berechtigtes Interesse, Art. 6 Abs. 1 lit. f DSGVO).
+
+**Ruf im Discord-Server:** Für das Ruf-System (Stufen und Titel für Aktivität) zählt der Bot bei allen Mitgliedern des Discord-Servers, wie viele Nachrichten sie schreiben und wie viele Minuten sie in Sprachkanälen verbringen; den Inhalt von Nachrichten liest und speichert er nicht. Zu deiner Discord-Nutzer-ID speichert er nur diese Zahlen, deine Ruf-Punkte, deine Stufe und die Tage deiner Serie (berechtigtes Interesse an einer aktiven Community, Art. 6 Abs. 1 lit. f DSGVO). Auf Wunsch lösche ich deine Ruf-Daten (Abschnitt 10). Bist du verknüpft, bekommst du für Ruf-Aufstiege außerdem Kronen und Truhen im Spiel.
+
+**Server des Bots:** Der Bot läuft auf einem von mir gemieteten Server bei MC-HOST24 (Gericke KG, Markdorf, Deutschland). Dort liegen die Ruf-Daten, der zuletzt bekannte Rang verknüpfter Konten (für Aufstiegs-Meldungen), der verschlüsselte Zugangsschlüssel und die Protokolle des Bots (in der Größe begrenzt, ältere Einträge werden überschrieben). Beim Rücksprung von Discord über die Webseite des Bots verarbeitet der Server deine IP-Adresse nur kurz im Arbeitsspeicher, um Missbrauch zu verhindern; in Zugriffsprotokollen wird sie nicht gespeichert.
+
+**Rangliste im Discord-Server:** Unabhängig von einer Verknüpfung zeigt der Bot im Ranglisten-Kanal die besten Plätze der weltweiten Rangliste, des Tagesfeldzugs und der Prestige-Liste – mit denselben Angaben wie in der App (Anzeigename, Flagge des Landes, Zone, Punkte, Prestige, Platz), damit die Community die Rangliste auch dort verfolgen kann (berechtigtes Interesse, Art. 6 Abs. 1 lit. f DSGVO). Möchtest du dort nicht erscheinen, schreib mir (Abschnitt 10) – dann nehme ich deinen Eintrag aus der Rangliste.
 
 **Zweck und Rechtsgrundlage:** Community-Funktionen im Discord-Server (Rang-Rolle, Live-Rangliste, Erfolge). Rechtsgrundlage ist deine Einwilligung, die du gibst, indem du die Verknüpfung selbst herstellst (Art. 6 Abs. 1 lit. a DSGVO).
 
@@ -133,6 +150,17 @@ Schreibst du mir, verarbeite ich deine E-Mail-Adresse und deine Nachricht, um de
 - kein Verkauf von Daten; Empfänger sind nur Supabase als Betreiber des Spielservers in meinem Auftrag (Abschnitt 8), Google für die Werbung (Abschnitt 7) und Discord für die Rangliste im Discord-Server sowie – nur wenn du dein Konto verknüpfst – für deine Verknüpfung (Abschnitt 8a),
 - keine Werbeprofile durch mich und keine automatisierten Entscheidungen im Einzelfall (personalisierte Werbung von Google nur mit Einwilligung).
 
+## 11a. Kinder
+
+Das Spiel richtet sich nicht an Kinder unter 13 Jahren, und ich erhebe wissentlich keine personenbezogenen Daten von Kindern unter 13 Jahren. Die Werbung in den Belohnungs-Videos ist auf Inhalte bis zur Stufe „Teen“ (T) begrenzt und nicht an Kinder gerichtet. Bist du Elternteil oder erziehungsberechtigt und glaubst, dass dein Kind unter 13 Jahren die Online-Funktionen des Spiels genutzt hat, kannst du die Daten auf dem Spielserver in den Einstellungen des Spiels löschen („Meine Serverdaten löschen“) oder mir an rollfestung@gmail.com schreiben und die Kurz-ID aus der Rangliste nennen. Dann lösche ich die Daten dieses Kontos.
+
+## 11b. Datenschutzrechte in US-Bundesstaaten
+
+Einige US-Bundesstaaten (zum Beispiel Kalifornien, Colorado, Connecticut, Virginia und Texas) geben Verbrauchern zusätzliche Datenschutzrechte. Diese Rechte gewähre ich allen Spielern in den USA, zusätzlich zu denen aus Abschnitt 12:
+
+- **Auskunft, Berichtigung und Löschung:** Welche Daten das Spiel verarbeitet, steht in dieser Erklärung. Du kannst eine Kopie deiner Daten verlangen und sie berichtigen oder löschen lassen. Deine Daten auf dem Spielserver löschst du selbst in den Einstellungen („Meine Serverdaten löschen“); für alles andere schreib mir (Abschnitt 10) und nenne die Kurz-ID aus der Rangliste. Ich antworte innerhalb von 45 Tagen; lehne ich eine Anfrage ab, kannst du Einspruch einlegen, indem du auf meine Antwort antwortest. Wer diese Rechte nutzt, wird im Spiel nicht anders behandelt.
+- **Widerspruch gegen Verkauf, Weitergabe und personalisierte Werbung:** Ich verkaufe keine personenbezogenen Daten gegen Geld und nutze sie nicht selbst für Werbung. Der Spielserver verarbeitet Daten nur für die Spielfunktionen, die du nutzt, und die Spielstatistik wird nur mit deiner Einwilligung gesendet (Abschnitt 8). Google kann Daten aus den Belohnungs-Videos für personalisierte Werbung nutzen (Abschnitt 7); manche dieser Gesetze werten das als „Verkauf“ oder „Weitergabe“ personenbezogener Daten oder als zielgerichtete Werbung. Dem kannst du jederzeit widersprechen: in den Einstellungen des Spiels unter „Über & Rechtliches → Einwilligungen verwalten“ (die Zeile erscheint, wo Google diese Wahl für deinen Bundesstaat anbietet) und indem du das Tracking in der iOS-Abfrage nicht erlaubst oder später in den iOS-Einstellungen unter „Datenschutz & Sicherheit → Tracking“ ausschaltest. Die Belohnungs-Videos gibt es in jedem Fall.
+
 ## 12. Deine Rechte
 
 Du hast das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung der Verarbeitung (Art. 18), Datenübertragbarkeit (Art. 20) und Widerspruch (Art. 21). Eine Einwilligung kannst du jederzeit mit Wirkung für die Zukunft widerrufen (Art. 7 Abs. 3), für Werbung unter „Einwilligungen verwalten“. Deine Daten auf dem Spielserver löschst du selbst in den Einstellungen („Meine Serverdaten löschen“), und deine Einwilligung zur Spielstatistik widerrufst du dort mit dem Schalter „Anonyme Spielstatistik senden“. Für Auskunft oder Löschung per E-Mail nenne mir bitte die Kurz-ID aus der Rangliste, sonst kann ich dein Konto nicht finden. Spielstand und Einstellungen auf dem Gerät löschst du, indem du die App löschst; iCloud und Game Center verwaltest du in den iOS-Einstellungen.
@@ -149,14 +177,16 @@ Ich passe diese Erklärung an, wenn sich das Spiel oder seine Dienste ändern. D
 
 # Privacy Policy
 
-Last updated: 25.09.2026
+Last updated: September 25, 2026
 
 Rollfort is a game without user accounts with a name or email and without third-party analytics tools. For the cloud save, the worldwide leaderboard and anonymous game statistics, the game uses its own game server hosted by Supabase in the EU. The optional reward videos come from Google AdMob. This policy explains which data is created while you play, where it is stored and which rights you have.
 
 ## 1. Controller
 
 Jannik Willer  
-[ANSCHRIFT (IMPRESSUM-SERVICE)]  
+c/o POSTFLEX PFX-208-384  
+Emsdettener Straße 10  
+48268 Greven  
 Germany  
 Email: rollfestung@gmail.com
 
@@ -166,7 +196,7 @@ Email: rollfestung@gmail.com
 - There is no user account with a name, email or password – only an anonymous game account with a random ID. The game server does not receive your email, advertising identifier or location data (GPS), and a name only as the leaderboard display name (Game Center name or one you chose, section 8).
 - You can turn off the game statistics in the settings at any time, and you delete your data on the game server there yourself ("Delete my server data").
 - Some features use Apple services: iCloud (syncing your progress), Game Center (leaderboards and achievements) and the App Store (purchases). Apple processes this data; I do not receive it.
-- The optional reward videos are provided by Google AdMob (section 7). In the EU the app asks for your consent first; you can change it at any time in the settings under "Manage consent". Google only uses the advertising identifier (IDFA) if you allow it in the iOS prompt.
+- The optional reward videos are provided by Google AdMob (section 7). In the EU the app asks for your consent first, and in US states with a privacy law you can opt out of personalized ads (section 11b); you manage both in the settings under "Privacy Choices". Google only uses the advertising identifier (IDFA) if you allow it in the iOS prompt.
 
 ## 3. Data on your device
 
@@ -205,7 +235,9 @@ In some places you can choose to watch a short video ad and get a reward (daily 
 
 **Which data:** When videos are loaded and watched, Google processes your IP address (and from it an approximate location), device and app information (for example device model, iOS version, language, app version), identifiers – the advertising identifier (IDFA) only if you allow tracking (see below) –, your interactions with the ads (shown, watched, tapped) and crash and performance data of the ad SDK. Purpose: delivering ads, confirming rewards, measuring reach and billing, preventing fraud and – only with your consent – personalizing ads.
 
-**Consent (EU/EEA, United Kingdom, Switzerland):** Before the first ad, the app shows Google's consent dialog (User Messaging Platform). There you decide whether Google may store and access information on your device and show personalized ads. The legal basis is your consent (Art. 6 (1) (a) GDPR, Section 25 (1) TDDDG). Your choice is stored on your device. You can change or withdraw it at any time with effect for the future: in the game's settings under "About & Legal → Manage consent".
+**Consent (EU/EEA, United Kingdom, Switzerland):** Before the first ad, the app shows Google's consent dialog (User Messaging Platform). There you decide whether Google may store and access information on your device and show personalized ads. The legal basis is your consent (Art. 6 (1) (a) GDPR, Section 25 (1) TDDDG). Your choice is stored on your device. You can change or withdraw it at any time with effect for the future: in the game's settings under "About & Legal → Privacy Choices".
+
+**US states:** Where a US state privacy law applies, the app does not ask for consent before the first ad. Instead, you can opt out of the use of your data for personalized ads at any time: in the game's settings under "About & Legal → Privacy Choices" (the row appears where Google offers this choice for your state). Google then no longer uses your data for personalized ads. Details are in section 11b.
 
 **Tracking (App Tracking Transparency):** Afterwards iOS asks whether Google may use your device's advertising identifier (IDFA) to personalize and measure ads across apps and websites of other companies. Without your permission Google does not receive the advertising identifier; the videos are still available. You can change this at any time in the iOS Settings under "Privacy & Security → Tracking".
 
@@ -245,13 +277,26 @@ The game does not send your email address, advertising identifier (IDFA) or loca
 
 ## 8a. Discord link (optional)
 
-In your profile you can choose to link your game account with the Rollfort Discord server. The app shows a code that is valid for 15 minutes; you enter it on the Discord server (channel #konto-verknüpfen or the /link command).
+You can choose to link your game account with the Rollfort Discord server – in your profile or in the settings, in one of two ways:
+
+- **With one tap:** "Connect Discord" opens Discord's sign-in page. When you tap "Authorize" there, Discord gives my Discord bot your Discord user ID, your Discord username and your profile picture (not your email address); the bot adds you to the Discord server if you are not a member yet and sets up the "Rollfort" connection in your Discord profile (see below).
+- **With a code:** The app shows a code that is valid for 15 minutes; you enter it on the Discord server (in the link channel or with the /link command).
 
 **What is stored:** When you link, my Discord bot stores your Discord user ID, your Discord username, the link to your Discord profile picture and the time of linking together with your account ID on the game server at Supabase (section 8) – until you unlink. So that your profile shows the link even without internet, the app also remembers your Discord name and the profile picture link on your device.
 
 **What becomes visible on the Discord server:** While the link exists, the bot shows your leaderboard display name, your rank, best zone, score, prestige level, your country's flag and your place on the leaderboard on the Discord server, and it gives you a rank role. All members of the server can see this.
 
-**Leaderboard on the Discord server:** Regardless of any link, the bot shows the top places of the world leaderboard, the daily campaign and the prestige list in the #rangliste channel – with the same details as in the app (display name, country flag, zone, score, prestige, place), so the community can follow the leaderboard there too (legitimate interest, Art. 6 (1) (f) GDPR). If you don't want to appear there, write to me (section 10) and I will remove your entry from the leaderboard.
+**Runes and crowns (only with your permission):** Only if you allow it in the settings under "Show on Discord" does the bot also show how many runes you own and how many crowns you have; you can switch each of these off there at any time, and it is then deleted from the game server.
+
+**"Rollfort" connection in your Discord profile (one-tap only):** The bot adds your leaderboard display name, your rank, your best zone and your prestige level there, so the Discord server can grant roles based on them ("Linked Roles"); you decide in Discord who can see this connection. To keep it up to date, the bot stores an access key from Discord (refresh token) in encrypted form on its server – for this purpose only. When you unlink, the bot removes the connection and deletes the key. You can also revoke the permission in Discord at any time under Settings → Authorized Apps.
+
+**Rewards:** For linked accounts the bot creates rewards (crowns, chests, the Community banner) on the game server at Supabase; the app collects them, adds them to your save and then marks them as collected. So that the linking gift is given only once per game account and once per Discord account, and the daily bonus only once a day, the game server stores what a reward was for and when – with your Discord user ID only as a hash value (SHA-256). These entries remain after unlinking and after "Delete my server data", without any reference to your game account, so that nobody can collect the same gift more than once (legitimate interest, Art. 6 (1) (f) GDPR).
+
+**Reputation on the Discord server:** For the reputation system (levels and titles for activity) the bot counts, for all members of the Discord server, how many messages they write and how many minutes they spend in voice channels; it never reads or stores the content of messages. For your Discord user ID it stores only these numbers, your reputation points, your level and the days of your streak (legitimate interest in an active community, Art. 6 (1) (f) GDPR). On request I delete your reputation data (section 10). If your account is linked, reputation level-ups also give you crowns and chests in the game.
+
+**The bot's server:** The bot runs on a server I rent from MC-HOST24 (Gericke KG, Markdorf, Germany). It holds the reputation data, the last known rank of linked accounts (for rank-up posts), the encrypted access key and the bot's logs (limited in size; older entries are overwritten). When you return from Discord through the bot's web page, the server processes your IP address only briefly in memory to prevent abuse; it is not stored in access logs.
+
+**Leaderboard on the Discord server:** Regardless of any link, the bot shows the top places of the world leaderboard, the daily campaign and the prestige list in the leaderboard channel – with the same details as in the app (display name, country flag, zone, score, prestige, place), so the community can follow the leaderboard there too (legitimate interest, Art. 6 (1) (f) GDPR). If you don't want to appear there, write to me (section 10) and I will remove your entry from the leaderboard.
 
 **Purpose and legal basis:** community features on the Discord server (rank role, live leaderboard, achievements). The legal basis is your consent, which you give by creating the link yourself (Art. 6 (1) (a) GDPR).
 
@@ -274,12 +319,23 @@ If you write to me, I process your email address and your message to answer your
 - no selling of data; the only recipients are Supabase, which runs the game server on my behalf (section 8), Google for the ads (section 7) and Discord for the leaderboard on the Discord server and – only if you link your account – for your link (section 8a),
 - no advertising profiles by me and no automated individual decision-making (personalized ads from Google only with consent).
 
+## 11a. Children
+
+The game is not directed at children under 13, and I do not knowingly collect personal information from children under 13. The ads in the reward videos are limited to content rated "Teen" (T) and are not directed at children. If you are a parent or guardian and believe that your child under 13 has used the game's online features, you can delete the data on the game server in the game's settings ("Delete my server data") or write to me at rollfestung@gmail.com with the short ID from the leaderboard. I will then delete the data of that account.
+
+## 11b. US state privacy rights
+
+Some US states (for example California, Colorado, Connecticut, Virginia and Texas) give consumers additional privacy rights. I grant these rights to all players in the USA, in addition to those in section 12:
+
+- **Know, access, correct and delete:** This policy describes which data the game processes. You can request a copy of your data and have it corrected or deleted. You delete your data on the game server yourself in the settings ("Delete my server data"); for anything else, write to me (section 10) and include the short ID from the leaderboard. I answer within 45 days; if I decline a request, you can appeal by replying to my answer. Using these rights never changes how the game treats you.
+- **Opt out of sale, sharing and targeted advertising:** I do not sell personal information for money and do not use it for advertising myself. The game server only processes data for the game features you use, and game statistics are sent only with your consent (section 8). Google may use data from the reward videos for personalized ads (section 7), which some state laws treat as "selling" or "sharing" personal information or as targeted advertising. You can opt out of this at any time: in the game's settings under "About & Legal → Privacy Choices" (the row appears where Google offers this choice for your state), and by not allowing tracking in the iOS prompt or by turning it off later in the iOS Settings under "Privacy & Security → Tracking". The reward videos stay available either way.
+
 ## 12. Your rights
 
-You have the right of access (Art. 15 GDPR), rectification (Art. 16), erasure (Art. 17), restriction of processing (Art. 18), data portability (Art. 20) and to object (Art. 21). You can withdraw any consent at any time with effect for the future (Art. 7 (3)), for ads under "Manage consent". You delete your data on the game server yourself in the settings ("Delete my server data"), and you withdraw your consent to the game statistics there with the "Send anonymous game statistics" switch. For access or deletion by email, please tell me the short ID from the leaderboard, otherwise I cannot find your account. You delete your progress and settings on the device by deleting the app; you manage iCloud and Game Center in the iOS Settings.
+You have the right of access (Art. 15 GDPR), rectification (Art. 16), erasure (Art. 17), restriction of processing (Art. 18), data portability (Art. 20) and to object (Art. 21). You can withdraw any consent at any time with effect for the future (Art. 7 (3)), for ads under "Privacy Choices". You delete your data on the game server yourself in the settings ("Delete my server data"), and you withdraw your consent to the game statistics there with the "Send anonymous game statistics" switch. For access or deletion by email, please tell me the short ID from the leaderboard, otherwise I cannot find your account. You delete your progress and settings on the device by deleting the app; you manage iCloud and Game Center in the iOS Settings.
 
 You also have the right to lodge a complaint with a data protection supervisory authority (Art. 77 GDPR), for example the authority where you live.
 
 ## 13. Changes
 
-I update this policy when the game or its services change. You always find the current version in the app under "Settings → About & Legal" and on the web at [extasymarket.github.io/rollfestung-web/datenschutz](https://extasymarket.github.io/rollfestung-web/datenschutz).
+I update this policy when the game or its services change. You always find the current version in the app under "Settings → About & Legal" and on the web at [extasymarket.github.io/rollfestung-web/datenschutz](https://extasymarket.github.io/rollfestung-web/datenschutz#english).
