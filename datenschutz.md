@@ -169,7 +169,7 @@ Außerdem kannst du dich bei einer Datenschutz-Aufsichtsbehörde beschweren (Art
 
 ## 13. Änderungen
 
-Ich passe diese Erklärung an, wenn sich das Spiel oder seine Dienste ändern. Die aktuelle Fassung findest du immer in der App unter „Einstellungen → Über & Rechtliches“ und im Web unter [extasymarket.github.io/rollfestung-web/datenschutz](https://extasymarket.github.io/rollfestung-web/datenschutz).
+Ich passe diese Erklärung an, wenn sich das Spiel oder seine Dienste ändern. Die aktuelle Fassung findest du immer in der App unter „Einstellungen → Über & Rechtliches“ und im Web unter [rollfort.github.io/rollfestung-web/datenschutz](https://rollfort.github.io/rollfestung-web/datenschutz).
 
 ---
 
@@ -338,4 +338,4 @@ You also have the right to lodge a complaint with a data protection supervisory 
 
 ## 13. Changes
 
-I update this policy when the game or its services change. You always find the current version in the app under "Settings → About & Legal" and on the web at [extasymarket.github.io/rollfestung-web/datenschutz](https://extasymarket.github.io/rollfestung-web/datenschutz#english).
+I update this policy when the game or its services change. You always find the current version in the app under "Settings → About & Legal" and on the web at [rollfort.github.io/rollfestung-web/datenschutz](https://rollfort.github.io/rollfestung-web/datenschutz#english).
